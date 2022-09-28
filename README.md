@@ -7,7 +7,8 @@ A android app to search for the lowest fuel price around you.
 - [x] Add initial config
 - [ ] Wave 1 (first components)
     - [ ] Basics Inputs
-    - [ ] Layouts
+    - [ ] Locate user
+    - [ ] Basic Layouts
 - [ ] Wave 2 
     - [ ] Complex Inputs
     - [ ] Implement API
