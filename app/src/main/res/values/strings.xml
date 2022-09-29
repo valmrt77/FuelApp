@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">FuelApp</string>
-    <string name="title_activity_maps">Fuel Price</string>
+    <string name="title_activity_main">Fuel Price</string>
 </resources>
