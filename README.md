@@ -6,15 +6,15 @@ A android app to search for the lowest fuel price around you.
 
 - [x] Add initial config
 - [ ] Wave 1 (first components)
-    - [ ] Basics Inputs
-    - [ ] Locate user
+    - [x] Basics Inputs
     - [ ] Basic Layouts
 - [ ] Wave 2 
     - [ ] Complex Inputs
+    - [ ] Locate user
     - [ ] Implement API
-    - [ ] Implement Waze
 - [ ] Wave 3
     - [ ] Remove unwanted displays
+    - [ ] Implement Waze
     - [ ] Optimize navigation
 - [ ] Wave 4 (Tests)
 - [ ] Wave 5
