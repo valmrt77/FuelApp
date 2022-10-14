@@ -35,7 +35,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text=" CARREFOUR "
+                    android:text=" CARREFOUR ( KM) "
                     android:textColor="@color/black"
                     android:textSize="24dp"></TextView>
 
@@ -45,7 +45,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Prix : "
+                    android:text="PRIX : "
                     android:textColor="@color/black"
                     android:textSize="24dp"></TextView>
             </LinearLayout>
