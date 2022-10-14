@@ -50,6 +50,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             //submit button clicked
 
             if (selectedAnswer !== "") {
+
                 val intent = Intent(this, DisplayActivity::class.java).apply {
                     putExtra(EXTRA_MESSAGE, selectedAnswer)
                 }
